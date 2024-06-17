@@ -1,0 +1,22 @@
+{
+    "global": {
+        "font_name": "Aptos",
+        "font_size": 11
+    },
+    "tables": {
+        "font_size": 10,
+        "colors": {
+            "header_background": "Gold",
+            "header_border": "OrangeRed",
+            "row_lines": "DodgerBlue"
+        }
+    },
+    "conditions": {
+        "condition_names": ["alert", "warn", "success", "info", "other"],
+        "red_alert": {},
+        "yellow_alert": {},
+        "green_alert": {},
+        "blue_alert": {},
+        "gray_alert": {}
+    }
+}
